@@ -10,7 +10,7 @@
               </div>
               <div class="mt-2">
                 <label class="block  text-sm text-white">Senha</label>
-                <input class="w-full px-5 py-1 text-gray-700 bg-gray-200 rounded"
+                <input class="w-full px-5 py-1 text-gray-700 bg-gray-300 rounded focus:outline-none focus:bg-white"
                   type="password" id="password" placeholder="Digite a sua senha" arial-label="password" required>
               </div>
 
